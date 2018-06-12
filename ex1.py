@@ -20,4 +20,5 @@ def cube(n):
 	return n*n*n
 
 lst_cube = list(map(cube, lst))
-print(lst_cube)
+print(lst_cube+"kjskfsjkfhsdjkhfsdjkfh")
+print("Made some changes)
